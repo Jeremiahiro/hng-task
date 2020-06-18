@@ -7,10 +7,10 @@
 </div>
 
 #### AUTHENTIATION ROUTES
-- [x] Register - to register a new user
-- [x] Login - to login an existing user
-- [x] View User - to get authenicated users details
-- [x] Logout - destroy's token
+- [x] api/register/user - to register a new user 
+- [x] api/login - to login an existing user
+- [x] api/user - to get authenicated users details
+- [x] api/logout - destroy's token
 
 
 [postman documentation](https://documenter.getpostman.com/view/6901755/Szzkdxty
